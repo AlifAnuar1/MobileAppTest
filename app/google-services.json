@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059054472106",
+    "project_id": "mobileapptest-ffe70",
+    "storage_bucket": "mobileapptest-ffe70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059054472106:android:94e3b8b6ef3ea8cc5cb9d3",
+        "android_client_info": {
+          "package_name": "com.azcodes.mobileapptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOqqfV1U1CImrlv3Wy91SXPvaD6whrFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
